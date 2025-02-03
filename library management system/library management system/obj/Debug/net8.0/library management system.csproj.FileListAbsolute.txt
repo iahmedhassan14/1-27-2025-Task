@@ -1,0 +1,14 @@
+C:\Users\Target\Downloads\1-27-2025 Task\library management system\library management system\bin\Debug\net8.0\library management system.exe
+C:\Users\Target\Downloads\1-27-2025 Task\library management system\library management system\bin\Debug\net8.0\library management system.deps.json
+C:\Users\Target\Downloads\1-27-2025 Task\library management system\library management system\bin\Debug\net8.0\library management system.runtimeconfig.json
+C:\Users\Target\Downloads\1-27-2025 Task\library management system\library management system\bin\Debug\net8.0\library management system.dll
+C:\Users\Target\Downloads\1-27-2025 Task\library management system\library management system\bin\Debug\net8.0\library management system.pdb
+C:\Users\Target\Downloads\1-27-2025 Task\library management system\library management system\obj\Debug\net8.0\library management system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Target\Downloads\1-27-2025 Task\library management system\library management system\obj\Debug\net8.0\library management system.AssemblyInfoInputs.cache
+C:\Users\Target\Downloads\1-27-2025 Task\library management system\library management system\obj\Debug\net8.0\library management system.AssemblyInfo.cs
+C:\Users\Target\Downloads\1-27-2025 Task\library management system\library management system\obj\Debug\net8.0\library management system.csproj.CoreCompileInputs.cache
+C:\Users\Target\Downloads\1-27-2025 Task\library management system\library management system\obj\Debug\net8.0\library management system.dll
+C:\Users\Target\Downloads\1-27-2025 Task\library management system\library management system\obj\Debug\net8.0\refint\library management system.dll
+C:\Users\Target\Downloads\1-27-2025 Task\library management system\library management system\obj\Debug\net8.0\library management system.pdb
+C:\Users\Target\Downloads\1-27-2025 Task\library management system\library management system\obj\Debug\net8.0\library management system.genruntimeconfig.cache
+C:\Users\Target\Downloads\1-27-2025 Task\library management system\library management system\obj\Debug\net8.0\ref\library management system.dll
